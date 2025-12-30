@@ -54,7 +54,11 @@ Unlike standard chatbots, this system is grounded in **RAG (Retrieval-Augmented 
 *   **🎨 Premium UI/UX**: A polished Streamlit interface with a custom medical green theme, smooth transitions, and interactive components.
 
 ---
+### Medical RAG System Architecture
 
+<img width="1117" height="585" alt="image" src="https://github.com/user-attachments/assets/72b5240c-87ba-4d85-80b3-30aa0d67fc9d" />
+
+---
 ## 🏗️ System Architecture
 
 The system follows a robust data pipeline:
