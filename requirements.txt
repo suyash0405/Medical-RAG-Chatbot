@@ -3,6 +3,7 @@ langchain
 langchain-community
 langchain-core
 langchain-huggingface
+langchain-openai
 faiss-cpu
 pypdf
 huggingface-hub
@@ -10,3 +11,4 @@ python-dotenv
 flask
 numpy
 sentence-transformers
+tiktoken
