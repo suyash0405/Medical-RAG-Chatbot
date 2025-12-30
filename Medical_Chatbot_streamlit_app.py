@@ -1138,3 +1138,24 @@ with tab5:
                             st.code(line.strip(), language="log")
 
             st.download_button("⬇️ Download Log", data="".join(logs), file_name=selected_log)
+
+# --- Footer ---
+st.markdown("""
+<br><br>
+<div style="text-align: center; margin-top: 50px; padding: 20px; background-color: rgba(255,255,255,0.05); border-radius: 10px;">
+    <p style="color: #bdc3c7; font-size: 0.9rem;">
+        Made with ❤️ by <b>Ratnesh Kumar Singh</b> | Powered by <b>Llama 3</b> & <b>RAG</b>
+    </p>
+    <p style="font-size: 0.8rem; color: #7f8c8d;">
+        &copy; 2025 All Rights Reserved. Not for medical diagnosis.
+    </p>
+    <div style="display: flex; justify-content: center; gap: 15px; margin-top: 10px;">
+        <a href="https://github.com/Ratnesh-181998" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github" alt="GitHub">
+        </a>
+        <a href="https://www.linkedin.com/in/ratneshkumar1998/" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
+        </a>
+    </div>
+</div>
+""", unsafe_allow_html=True)
