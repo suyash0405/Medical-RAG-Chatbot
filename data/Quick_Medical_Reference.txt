@@ -1,0 +1,95 @@
+MEDICAL ENCYCLOPEDIA - QUICK REFERENCE GUIDE
+============================================
+
+FEVER
+-----
+Description: Fever is a temporary increase in your body temperature, often due to an illness. It's a sign that something is not right in your body.
+Common Causes: Viral infections (flu, cold), bacterial infections (strep throat, pneumonia), heat exhaustion, certain inflammatory conditions.
+When to see a doctor: If temperature is > 103 F (39.4 C), lasts more than 3 days, or is accompanied by severe headache, throat swelling, or confusion.
+
+DIABETES
+--------
+Description: A chronic health condition that affects how your body turns food into energy. Most of the food you eat is broken down into sugar (glucose) and released into the bloodstream.
+Symptoms: Frequent urination, excessive thirst, unexplained weight loss, extreme hunger, blurry vision.
+Treatment: Type 1 requires insulin. Type 2 can often be managed with healthy eating, regular exercise, and medication (metformin, insulin).
+
+PNEUMONIA
+---------
+Description: An infection that inflames the air sacs in one or both lungs. The air sacs may fill with fluid or pus.
+Symptoms: Chest pain when you breathe or cough, confusion (in older adults), cough which may produce phlegm, fatigue, fever, sweating and shaking chills.
+Treatment: Antibiotics (for bacterial pneumonia), cough medicine, fever reducers (aspirin, ibuprofen).
+
+HEART DISEASE
+-------------
+Description: Generalized term for conditions affecting the heart structure and function, most commonly coronary artery disease.
+Warning Signs: Chest pain (angina), shortness of breath, pain in the neck/jaw/throat/upper abdomen/back, numbness or coldness in legs or arms.
+Risk Factors: High blood pressure, high cholesterol, smoking, obesity, diabetes.
+
+CANCER
+------
+Description: A disease in which some of the body's cells grow uncontrollably and spread to other parts of the body.
+Prevention: Stop smoking, avoid excessive sun exposure, eat a healthy diet, maintain a healthy weight, get vaccinated (Hepatitis B, HPV), get regular medical care.
+Common Types: Breast, Lung, Prostate, Colorectal, Skin (Melanoma).
+
+ARTHRITIS
+---------
+Description: Swelling and tenderness of one or more joints. The main symptoms are joint pain and stiffness, which typically worsen with age.
+Types: Osteoarthritis (wear and tear), Rheumatoid arthritis (autoimmune).
+Treatment: Physical therapy, medications (painkillers, NSAIDs, corticosteroids), and lifestyle changes (exercise, weight loss).
+
+MIGRAINE
+--------
+Description: A headache that can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound.
+Triggers: Hormonal changes, stress, certain foods/drinks (alcohol, caffeine), sensory stimuli (bright lights), sleep changes.
+Prevention: Stress management, regular sleep schedule, avoiding triggers.
+
+HIGH BLOOD PRESSURE (HYPERTENSION)
+----------------------------------
+Description: A common condition in which the long-term force of the blood against your artery walls is high enough that it may eventually cause health problems, such as heart disease.
+Management: Eat a heart-healthy diet with less salt, get regular physical activity, maintain a healthy weight or lose weight, limit alcohol, do not smoke.
+
+ASTHMA
+------
+Description: A condition in which your airways narrow and swell and may produce extra mucus.
+Symptoms: Shortness of breath, chest tightness or pain, wheezing when exhaling, trouble sleeping caused by shortness of breath suitable coughing or wheezing.
+Management: Inhalers (rescue and controller), avoiding triggers (pollen, dust, pets, cold air), action plan.
+
+COVID-19
+--------
+Description: An infectious disease caused by the SARS-CoV-2 virus.
+Symptoms: Fever or chills, cough, shortness of breath or difficulty breathing, fatigue, muscle or body aches, headache, new loss of taste or smell.
+Prevention: Vaccination, wearing masks in crowded areas, hand washing, social distancing.
+
+GASTRITIS
+---------
+Description: Inflammation of the lining of the stomach.
+Causes: Infection (H. pylori), regular use of certain pain relievers (NSAIDs), excessive alcohol use, stress.
+Treatment: Antacids, proton pump inhibitors (PPIs), H-2 blockers, antibiotics (if H. pylori is present).
+
+THYROID DISORDERS (HYPOTHYROIDISM / HYPERTHYROIDISM)
+----------------------------------------------------
+Description: Problems with the thyroid gland, which controls metabolism.
+Symptoms (Hypo): Fatigue, cold sensitivity, constipation, dry skin, weight gain.
+Symptoms (Hyper): Unintentional weight loss, rapid heartbeat, increased appetite, nervousness, sweating.
+
+ANXIETY
+-------
+Description: Intense, excessive, and persistent worry and fear about everyday situations. Fast heart rate, rapid breathing, sweating, and feeling tired may occur.
+Treatments: Psychotherapy (CBT), medications (antidepressants, anti-anxiety meds), stress management techniques, exercise.
+
+ANEMIA
+------
+Description: A condition in which you lack enough healthy red blood cells to carry adequate oxygen to your body's tissues.
+Causes: Iron deficiency, vitamin deficiency, inflammation, chronic diseases.
+Treatment: Iron supplements, vitamin B12 shots, dietary changes (leafy greens, meat), treating the underlying cause.
+
+DENTAL HEALTH
+-------------
+Common Problems: Cavities (tooth decay), gum disease (gingivitis), bad breath (halitosis),sensitive teeth.
+Prevention: Brush twice a day, floss daily, eat a balanced diet, visit dentist regularly for checkups and cleanings.
+
+EYE CARE
+--------
+Warning Signs: Sudden blurry or hazy vision, flashes of light, floaters, pain in or around the eye, redness or swelling.
+Common Conditions: Cataracts, Glaucoma, Macular Degeneration.
+Prevention: Wear sunglasses, quit smoking, maintain healthy blood sugar, eat foods rich in Vitamin A and Omega-3.
