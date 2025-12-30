@@ -1084,21 +1084,26 @@ with tab4:
     
     st.markdown("### 📊 Interactive Logic Diagram")
     
-    import textwrap
-    st.markdown(textwrap.dedent("""
-        ```mermaid
-        graph TD
-            A[User Query] --> B(Embedding Model)
-            B --> C{FAISS Vector Store}
-            C -->|Top K Documents| D[Context Window]
-            A --> D
-            D --> E[Llama 3 LLM]
-            E --> F[Refined Medical Answer]
-            style A fill:#3498db,stroke:#fff,stroke-width:2px,color:#fff
-            style C fill:#f39c12,stroke:#fff,stroke-width:2px,color:#fff
-            style E fill:#2ecc71,stroke:#fff,stroke-width:2px,color:#fff
-        ```
-    """))
+    st.graphviz_chart("""
+    digraph G {
+        rankdir=TD;
+        node [fontname="Arial", shape=box, style=filled, color="white"];
+        
+        A [label="User Query", fillcolor="#3498db", fontcolor="white"];
+        B [label="Embedding Model"];
+        C [label="FAISS Vector Store", shape=diamond, fillcolor="#f39c12", fontcolor="white"];
+        D [label="Context Window"];
+        E [label="Llama 3 LLM", fillcolor="#2ecc71", fontcolor="white"];
+        F [label="Refined Medical Answer"];
+
+        A -> B;
+        B -> C;
+        C -> D [label="Top K Documents"];
+        A -> D;
+        D -> E;
+        E -> F;
+    }
+    """)
 
 
     st.markdown("---")
