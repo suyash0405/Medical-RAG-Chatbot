@@ -33,6 +33,10 @@
 🚀 **Try it now:**
 - **Streamlit Profile** -[[Link]](https://share.streamlit.io/user/ratnesh-181998)
 - **Project Demo** - [[Medical ChatBot Link]](https://medical-rag-chatbot-a7zyhffk6df9nqyek9jb5u.streamlit.app/)
+
+### 🎥 Live Preview
+![App Demo](Medical_RAG_Demo_Video.webp)
+
 ---
 
 ## ✨ Introduction
