@@ -1,6 +1,6 @@
 from langchain_community.vectorstores import FAISS
 import os
-import streamlit as st
+# Removed streamlit import to prevent CacheReplayClosureError
 from app.components.embeddings import get_embedding_model
 from app.components.pdf_loader import load_pdf_files, create_text_chunks
 
@@ -15,7 +15,7 @@ def regenerate_vector_store():
     """Helper function to rebuild vector store from scratch on failure"""
     try:
         logger.info("⚠️ Attempting to regenerate vector store from source PDFs...")
-        st.toast("⚠️ Rebuilding Vector Store... This may take a minute.", icon="⏳")
+        # REMOVED st.toast to prevent Streamlit Caching errors
         
         # 1. Load Documents
         documents = load_pdf_files()
