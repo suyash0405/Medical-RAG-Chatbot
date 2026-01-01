@@ -3,7 +3,7 @@
 ## Clone the Project
 
 ```bash
-git clone https://github.com/data-guru0/LLMOPS-2-TESTING-MEDICAL.git
+git clone https://github.com/data-your/LLMOPS-2-TESTING-MEDICAL.git
 cd LLMOPS-2-TESTING-MEDICAL
 ```
 
