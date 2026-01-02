@@ -265,3 +265,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - 📖 **Documentation**: [GitHub Wiki](https://github.com/Ratnesh-181998/Medical-RAG-Chatbot/wiki)
 - 🐛 **Issue Tracker**: [GitHub Issues](https://github.com/Ratnesh-181998/Medical-RAG-Chatbot/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/Ratnesh-181998/Medical-RAG-Chatbot/discussions)
+
+  ---
+*Built with passion for the AI Community. 🚀*
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
+  
+</div>
+
